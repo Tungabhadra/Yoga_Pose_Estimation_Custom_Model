@@ -1,0 +1,1 @@
+epoch = 21 gives highest accuracy without risk of overfitting.
